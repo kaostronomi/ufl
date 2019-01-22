@@ -12,15 +12,7 @@ The computer on which you intend to install Majapahit 29 from the live CD should
 
 - RPMFusion
 - Included Codec
-
-## Download
-
-**Variant** | **Download**
-----|----
-Designer | [Download](https://www.download.com)
-Developer | [Download](https://www.download.com)
-JAM | [Download](https://www.download.com)
-Astronomy | [Download](https://www.download.com)
-Scientific | [Download](https://www.download.com)
-Robotic | [Download](https://www.download.com)
-Security | [Download](https://www.download.com)
+- KDE Apps
+- add Developer Edition
+- add Accountant Edition
+- add Electronic Edition
