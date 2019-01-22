@@ -16,3 +16,20 @@ The computer on which you intend to install Majapahit 29 from the live CD should
 - add Developer Edition
 - add Accountant Edition
 - add Electronic Edition
+
+## Build
+![build-iso](img/iso.png)
+
+## File
+
+- UFL-Accountant_KDE-Live-29.1.2.iso
+- UFL-Architect_KDE-Live-29.1.2.iso
+- UFL-Astronomy_KDE-Live-29.1.2.iso
+- UFL-Design_suite_KDE-Live-29.1.2.iso
+- UFL-Developer_KDE-Live-29.1.2.iso
+- UFL-Electronic_KDE-Live-29.1.2.iso
+- UFL-Home_KDE-Live-29.1.2.iso
+- UFL-Jam_KDE-Live-29.1.2.iso
+- UFL-Robotics_KDE-Live-29.1.2.iso
+- UFL-Scientific-Live-29.1.2.iso
+- UFL-Security-Live-29.1.2.iso
