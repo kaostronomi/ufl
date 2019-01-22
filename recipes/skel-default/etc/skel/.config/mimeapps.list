@@ -1,0 +1,9 @@
+[Added Associations]
+application/x-java-keystore=org.kde.kwrite.desktop;
+audio/mpeg=kde4-org.kde.amarok.desktop;
+image/svg+xml=inkscape.desktop;org.kde.gwenview.desktop;
+
+[Default Applications]
+application/x-java-keystore=org.kde.kwrite.desktop;
+audio/mpeg=kde4-org.kde.amarok.desktop;
+image/svg+xml=inkscape.desktop;

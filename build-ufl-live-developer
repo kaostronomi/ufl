@@ -1,0 +1,7 @@
+#!/bin/bash
+sudo livecd-creator \
+    --fslabel=UFL-Developer_KDE-Live-29.1.2 \
+    --config=ufl-live-developer.ks \
+    --cache=kitchen/cache/ \
+    --tmpdir=kitchen/temp/ \
+    --verbose

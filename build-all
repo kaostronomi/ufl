@@ -1,0 +1,61 @@
+#!/bin/bash
+
+echo " "
+echo "####################"
+echo "Please BE PATIENT :)"
+echo "Please BE PATIENT :)"
+echo "Please BE PATIENT :)"
+echo "Please BE PATIENT :)"
+echo "Please BE PATIENT :)"
+echo "Please BE PATIENT :)"
+echo "Please BE PATIENT :)"
+echo "Please BE PATIENT :)"
+echo "Please BE PATIENT :)"
+echo "####################"
+echo " "
+echo "###############"
+echo "BUILD LIVE HOME"
+./build-ufl-live-home
+echo "####################"
+echo "BUILD LIVE DEVELOPER"
+./build-ufl-live-developer
+echo "#######################"
+echo "BUILD LIVE DESIGN SUITE"
+./build-ufl-live-design_suite
+echo "####################"
+echo "BUILD LIVE ARCHITECT"
+./build-ufl-live-architect
+echo "####################"
+echo "BUILD LIVE ASTRONOMY"
+./build-ufl-live-astronomy
+echo "##################"
+echo "BUILD LIVE ACCOUNTANT"
+./build-ufl-live-accountant
+echo "##############"
+echo "BUILD LIVE ELECTRONIC"
+./build-ufl-live-electronic
+echo "###################"
+echo "BUILD LIVE JAM"
+./build-ufl-live-jam
+echo "###################"
+echo "BUILD LIVE ROBOTICS"
+./build-ufl-live-robotics
+echo "#####################"
+echo "BUILD LIVE SCIENTIFIC"
+./build-ufl-live-scientific
+echo "###################"
+echo "BUILD LIVE SECURITY"
+./build-ufl-live-security
+echo " "
+echo "####################"
+echo "     JOB DONE :)"
+echo "     JOB DONE :)"
+echo "     JOB DONE :)"
+echo "     JOB DONE :)"
+echo "     JOB DONE :)"
+echo "     JOB DONE :)"
+echo "     JOB DONE :)"
+echo "     JOB DONE :)"
+echo "     JOB DONE :)"
+echo "     JOB DONE :)"
+echo "####################"
