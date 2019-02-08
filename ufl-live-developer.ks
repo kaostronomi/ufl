@@ -201,6 +201,27 @@ bison
 curl
 sqlite-devel
 
+# databases
+# mongodb
+mongodb
+mongodb-server
+# sqlite
+sqlite
+sqlite-devel
+sqlite-tcl
+sqlite-jdbc
+sqliteman
+# postgresql
+postgresql
+postgresql-server
+# mariadb sql
+mariadb
+mariadb-server
+phpMyAdmin
+# cassandra
+cassandra
+cassandra-server
+
 %end
 
 %post

@@ -25,7 +25,6 @@
 # reduce font
 -lohit*
 -google-noto-sans-sinhala-fonts
--google-noto-fonts-common
 -google-noto-cjk-fonts-common
 -google-noto-sans-cjk-ttc-fonts
 -google-noto-serif-cjk-ttc-fonts

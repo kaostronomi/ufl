@@ -71,6 +71,11 @@ glibc-all-langpacks
 
 #### UFL ####
 
+# google noto font
+google-noto-mono-fonts
+google-noto-sans-fonts
+google-noto-serif-fonts
+
 # browser
 firefox
 
@@ -94,6 +99,9 @@ youtube-dl
 # git
 git
 git-crypt
+
+# snap
+snapd
 
 # session
 tmux
